@@ -6,7 +6,7 @@ My focus is on creating algorithms for detecting misinformation in news articles
 I enjoy designing things and painting. I sometimes write about my (computational and other) explorations on my [blog](https://martinssamuel.com/).
 
 - 🔭 I’m currently working on misinformation detection using topic modelling.
-- 🌱 I’m currently learning about stocks and markets.
+- 🌱 I’m currently learning about machine learning algorithms.
 - 🤝 I’m looking to collaborate on research on spread of misinformation in African countries.
 - 💬 Ask me about Computational Thinking and Design Thinking.
 - 📫 How to reach me: [Website](https://martinssamuel.com/) | [Twitter](https://twitter.com/m_arti)
